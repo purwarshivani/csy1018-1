@@ -1,0 +1,10 @@
+header{
+	background: red;
+
+}
+section{
+	background:green;padding-left:5%
+}
+footer{
+	background:blue;padding:3%;text-align: center;
+}
